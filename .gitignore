@@ -1,0 +1,55 @@
+
+---
+
+## 🚫 **3. Archivo `.gitignore` (Copia y pega esto)**
+
+Crea un archivo llamado `.gitignore` (sin extensión, solo el punto al inicio) en la carpeta principal `CODIGOS`. Esto evita que subas archivos basura:
+
+```text
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arduino / Firmware
+*.tmp
+*.log
+# (Opcional: si no quieres subir los binarios compilados)
+*.elf
+*.bin
+
+# Archivos personales o contraseñas
+config_local.py
+*.env
