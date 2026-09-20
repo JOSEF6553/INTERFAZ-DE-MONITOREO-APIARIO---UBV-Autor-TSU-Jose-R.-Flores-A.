@@ -36,3 +36,5 @@ Sistema IoT distribuido para el monitoreo en tiempo real de colmenas de abejas (
 Instala las dependencias necesarias ejecutando en tu terminal:
 ```bash
 pip install -r dashboard/requirements.txt
+
+<img width="1365" height="715" alt="Captura de pantalla 2026-09-20 174250" src="https://github.com/user-attachments/assets/ce0ccac4-3e44-4a6c-ac79-bd4490be2da7" />
