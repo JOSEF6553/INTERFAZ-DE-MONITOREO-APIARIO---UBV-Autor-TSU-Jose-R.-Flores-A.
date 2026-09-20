@@ -1,0 +1,4 @@
+1. Configuración del Firmware
+Abre Arduino IDE e instala las librerías: DHT sensor library, ArduinoJson, LiquidCrystal I2C.
+Carga esp32_servidor.ino en el ESP32 que actuará como servidor (este creará la red WiFi "Apiario").
+Carga esp32_cliente.ino en el segundo ESP32 (este se conectará a la red "Apiario").
