@@ -37,5 +37,4 @@ Instala las dependencias necesarias ejecutando en tu terminal:
 ```bash
 pip install -r dashboard/requirements.txt
 
-<img width="1365" height="715" alt="Captura de pantalla 2026-09-20 174250" src="https://github.com/user-attachments/assets/a4721b27-1235-497f-9d8c-707056d8a67c" />
-<img width="1365" height="715" alt="Captura de pantalla 2026-09-20 174250" src="https://github.com/user-attachments/assets/f054fec8-f2d4-433b-bac3-b736e3f74198" />
+
