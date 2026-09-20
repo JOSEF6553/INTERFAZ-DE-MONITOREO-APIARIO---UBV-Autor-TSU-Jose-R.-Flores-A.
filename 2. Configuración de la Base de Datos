@@ -1,0 +1,11 @@
+Asegúrate de tener PostgreSQL corriendo y crea la base de datos apiario_db con la tabla colmena_data:
+
+CREATE TABLE colmena_data (
+    id SERIAL PRIMARY KEY,
+    node_id INT,
+    timestamp_ms BIGINT,
+    temperature FLOAT,
+    humidity FLOAT,
+    pressure FLOAT,
+    water_level FLOAT
+);
