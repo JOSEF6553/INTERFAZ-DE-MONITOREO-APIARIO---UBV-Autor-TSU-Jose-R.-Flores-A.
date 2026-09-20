@@ -1,0 +1,17 @@
+Conecta el ESP32 Servidor a tu computadora vía USB.
+Abre una terminal en la carpeta dashboard.
+Ejecuta la aplicación:
+
+python monitor_apiario.py
+
+Se abrirá una ventana emergente. Selecciona el puerto COM correspondiente y haz clic en "Conectar".
+
+📊 Características del Dashboard
+📈 Gráficas en tiempo real con separadores visuales.
+🚨 Alertas inteligentes (solo alerta por exceso de lluvia o parámetros fuera de rango biológico).
+💾 Almacenamiento automático en PostgreSQL.
+📱 Interfaz responsive y modo oscuro (Dark Theme).
+📉 Ventana de estadísticas con promedios, tendencias y tablas resumen.
+📝 Licencia
+Este proyecto es de código abierto y está destinado a fines académicos y de soberanía tecnológica, bajo los lineamientos de la UBV y CENDITEL.
+Desarrollado con ❤️ para la apicultura venezolana.
